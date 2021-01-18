@@ -1,7 +1,5 @@
 import sys
 import math
-#Name = Mitansh Desai
-#Student ID = 101168117
 
 def raise_exception(reason):
 	"""
